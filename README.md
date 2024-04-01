@@ -22,7 +22,8 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vue"/>]([https://developer.mozilla.org/en-US/docs/Web/Vue](https://vuejs.org/))
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>]([https://developer.mozilla.org/en-US/docs/Web/Vue](https://www.python.org//))
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>]([https://developer.mozilla.org/en-US/docs/Web/python](https://www.python.org//))
+        [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>]([https://developer.mozilla.org/en-US/docs/Web/cpp](https://cplusplus.com/))
 
 
 #### Studying in this moment:
