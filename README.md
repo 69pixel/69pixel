@@ -39,12 +39,9 @@
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/luca2k.ro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto: contact.luca2k@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/downtownro/" target="_blank"><img loading="lazy" src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://icons8.com/icons/set/discord)" target="_blank"></a>   
 </div>
 
 
 ------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
-Last Edited on: 16/01/2024
