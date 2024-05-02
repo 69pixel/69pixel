@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luca2k;I'm+Currently+Learning+Lua)](https://git.io/typing-svg)
 
 <h3 align="center">"Copia nu are valoare."</h3>
-<h4 align="center">- Luca2k -</h4>
+<h4 align="center">- Pixel -</h4>
 
 <br>
 
