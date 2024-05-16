@@ -31,6 +31,7 @@
     [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>]([[https://developer.mozilla.org/en-US/docs/Lua](https://www.lua.org/))
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
     [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mongodb"/>]([[https://developer.mozilla.org/en-US/docs/mongodb](https://www.mongodb.com/))
+        [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=svelte"/>]([[https://developer.mozilla.org/en-US/docs/svelte](https://www.mongodb.com/))
 
 #### Tools:
 
