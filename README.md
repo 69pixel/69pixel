@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1483f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Pixel;I'm+Currently+Learning+Lua)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1483f0&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Luca2k;I'm+Currently+Learning+Lua+and+Svelte)](https://git.io/typing-svg)
 
 <h3 align="center">"Copia nu are valoare."</h3>
-<h4 align="center">- Pixel -</h4>
+<h4 align="center">- Luca2k -</h4>
 
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=machiamaluca2k&theme=white&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machiamaluca2k&layout=compact&theme=white" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Luca2k-js&theme=white&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca2k-js&layout=compact&theme=white" />
 </div>
 
 
