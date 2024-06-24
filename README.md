@@ -27,9 +27,8 @@
 
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>]([[https://developer.mozilla.org/en-US/docs/Lua](https://www.lua.org/))
-        [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=svelte"/>]([[https://developer.mozilla.org/en-US/docs/svelte](https://www.svelte.dev/))
-
+    [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>]([[https://developer.mozilla.org/en-US/docs/Lua]
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>](https://developer.mozilla.org/en-US/docs/go)
 #### Tools:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
