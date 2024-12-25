@@ -26,7 +26,7 @@
 
 
 #### Studying in this moment:
-   <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=lua"/>  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=go"/>
+   <img height="48px" width="48px" alt="Icone VS-Code" src="[https://skillicons.dev/icons?i=lua](https://skillicons.dev/icons?i=react)"/>  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=typescript"/>
 #### Tools:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
